@@ -1,0 +1,18 @@
+#heading {
+    font-family: 'Faster One', cursive;
+    padding: 7em;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 0.1rem 0.1rem 0.3rem #333;
+    letter-spacing: 0.15em;
+}
+
+h2{
+    color: lightskyblue;
+    font-size: 3rem;
+}
+
+h1{
+    color: white;
+    font-size: 4rem;
+}
